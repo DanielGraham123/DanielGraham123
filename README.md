@@ -7,7 +7,7 @@
 I'm a cameroonian full-stack developer and content creator fueled by the desire to make a positive difference in the digital world. I take a hands-on approach, building everything from scratch to tackle real-world problems with code. I take a hands-on approach, building everything from scratch to tackle real-world problems with code. Each line of code and piece of content is meticulously designed to make a lasting impact.💪🏽
 
  <p align="left">
-      <a href="https://www.youtube.com/c/TheVisualCoder123?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/successmotivation83?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCN2zikfU4BUDmwR7TYy1ZgA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DanielGraham123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
